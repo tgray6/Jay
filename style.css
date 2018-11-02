@@ -129,9 +129,10 @@ nav ul{
 }
 
 footer{
+    text-align: center;
     height:100px;
     width:960px;
-    
+        
 }
 
 #footerleft{
@@ -166,6 +167,7 @@ footer{
     height:1500px;    
     width:960px;
     margin: 0 auto;
+    padding: 20px;
     border: medium #383838 solid;
 }
 
@@ -194,27 +196,26 @@ footer{
     margin-left:0;
     background-color:none;
     padding:0 0 0 10px;
-    font-famiy:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
     
 }
 
 #awards h2{
-    height:250px;
-    width:650px;
     margin-left:0 auto;
 }
 
 #ammenities {
     width:960
     margin:0 auto;
+    
 }
 
 .aboutcol{
     height:450px;
     width:400px;
     float:left;
-    margin:20px 0 0 20px;
-    background-color: beige;
+     background-color: beige;
+    margin-left: 55px;
 }
 
 .aboutcol h2{
